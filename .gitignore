@@ -21,4 +21,4 @@ Thumbs.db
 # Secrets
 application-secrets.properties
 *.env
-.env.local
+.env.local      
